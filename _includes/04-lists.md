@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+Item 1 School
+Item 2 Work
+Item 3 Kids :heart: 
